@@ -7,6 +7,6 @@ Possibility to change this in the code
 5) Consider invitations in the order of time replied. Only consider invitations that were accepted.
 6) Remove invitations that were sent directly to a user (without query). Only project 231 has no direct invitations. 
 7) If exhaust all options from a single query, send an invite to the first result of the query, regardless of their relationship. And continues down the list until one accepts. 
-8) Probability of accepting an invitation is currently fixed - 50%.
+8) Probability of accepting an invitation is currently fixed - 50%. Can be changed to reflect relationship.
 9) If the invite was sent to a non enjoy.work person in the first place, I assigned a probability decision (in the simulation this user might not accept, however we know this person accepted the invite). This is to make future changes to the model easier.
 10) If we have created enough teams to hit the team number hit limit (see 3), add individuals without teams to the team with fewest members
