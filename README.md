@@ -49,8 +49,8 @@ Check size of all teams
 - Any team with size lower than the lower team size limit
 - Assign random unteamed users to the team
 
-###  Notes on diversity of skills:
-Calculated the gini for all skills of all team members
-Project skill individual gini is NA treated that person as not in team
-Average of gini score for all team members within iteration
-Calculate CI with 200 iteration
+###  Notes on diversity of skills calculations:
+1. Calculated the gini for all skills of all team members
+2. Project skill individual gini is NA treated that person as not in team
+3. Average of gini score for all team members within iteration
+4. Calculate CI with 200 iteration
