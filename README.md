@@ -9,4 +9,4 @@ Possibility to change this in the code
 7) If exhaust all options from a single query, send an invite to the first result of the query, regardless of their relationship. And continues down the list until one accepts. 
 8) Probability of accepting an invitation is currently fixed - 50%.
 9) If the invite was sent to a non enjoy.work person in the first place, I assigned a probability decision (in the simulation this user might not accept, however we know this person accepted the invite). This is to make future changes to the model easier.
-10) If we have created enough teams to hit the team number hit limit (see C), add individuals without teams to the team with fewest members
+10) If we have created enough teams to hit the team number hit limit (see 3), add individuals without teams to the team with fewest members
