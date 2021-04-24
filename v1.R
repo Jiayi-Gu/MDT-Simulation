@@ -42,9 +42,6 @@ recommendations <- recommendations %>%
   rename(rec_time=date)
 
 
-# seperate projects for inspection
-v2Projects <- unique(v2_reccomendations$project_id)
-
 
 # simulation begins:
 PROJECT_ID=230  # takes data on this project
