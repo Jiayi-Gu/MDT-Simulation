@@ -54,3 +54,6 @@ Check size of all teams
 2. Project skill individual gini is NA treated that person as not in team
 3. Average of gini score for all team members within iteration
 4. Calculate CI with 200 iteration
+
+
+R Version: 4.0.3
